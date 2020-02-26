@@ -1,7 +1,7 @@
-/**
+﻿/**
  * @author chu
  * @constructor pubDao
- * @description cli命令的通讯类主要调用jaxa来，返回各种网络设备的数据
+ * @description cli命令的通讯类主要调用jaxa来，返回各种网络设备的数据123123
  * @since version 1.0
  */
 
